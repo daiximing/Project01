@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="10.1.94.53_SQLSERVERHB" uuid="c814c502-5bf3-4565-a973-f1df0c6b1d8b">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://10.1.94.53\SQLSERVERHB:1449;database=hpdb</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="10.1.94.53_xhdb" uuid="beea6933-e14d-4b7b-8889-b36406a7fe33">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://10.1.94.53:1433;database=xhdb</jdbc-url>
+    </data-source>
+  </component>
+</project>
